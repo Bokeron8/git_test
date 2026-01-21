@@ -16,7 +16,10 @@ Modificado para probar webhooks.
 
 ## Cambios realizados - 21/01/2026
 1. Eliminacion de campos innecesarios
-2. Adjunto JSON <img width="657" height="397" alt="image" src="https://github.com/user-attachments/assets/2ec601d8-2831-47a6-9f8d-1bb73d6502e6" />
+2. Adjunto JSON
+<img width="657" height="397" alt="image" src="https://github.com/user-attachments/assets/2ec601d8-2831-47a6-9f8d-1bb73d6502e6" />
+
+<h1>Prueba de uso HTML</h1>
 
 
 
