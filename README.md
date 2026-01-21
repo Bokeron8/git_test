@@ -14,4 +14,10 @@ Modificado para probar webhooks.
 # Prueba de cambio
 - Cambio para probar server de testing
 
+## Cambios realizados - 21/01/2026
+1. Eliminacion de campos innecesarios
+2. Adjunto JSON <img width="657" height="397" alt="image" src="https://github.com/user-attachments/assets/2ec601d8-2831-47a6-9f8d-1bb73d6502e6" />
+
+
+
 https://drive.google.com/file/d/1BPhLaqfU6ncsylooCK5SqHu_KGN8GkqD/view?usp=sharing
